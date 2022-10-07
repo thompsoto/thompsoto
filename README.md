@@ -1,7 +1,7 @@
 <p align="center">
   <img width="150" src=images/cat.gif />
 </p>
-<h1 align="center">Hi, I'm Matthew Thompson Soto<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Matthew Thompson Soto <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">Software developer & dog + cat + plant enthusiast</h3>
 
 ## Programming Languages
