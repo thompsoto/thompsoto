@@ -1,7 +1,7 @@
-[![MasterHead](https://dribbble.com/shots/3079099-Coding-coding-coding)]
+[![MasterHead](code.gif)]
 <h1 align="center">Hello 👋, I'm Matthew Thompson Soto</h1>
 <h3 align="center">CS '23 @ UW-Madison | Incoming Software Engineer @ Amazon</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://giphy.com/stickers/Sushiboxru-cat-kitten-sushistik-f6hnhHkks8bk4jwjh3”>
+<img align=“right” alt=“Coding” width=“400” src=“cat.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thompsoto&label=Profile%20views&color=0e75b6&style=flat" alt="thompsoto" /> </p>
 
