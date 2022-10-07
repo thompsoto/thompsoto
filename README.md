@@ -1,8 +1,6 @@
-![MasterHead](images/cat.gif)
+<img align="center" src=images/cat.gif>
 <h1 align="center" width="200">Hello 👋, I'm Matthew Thompson Soto</h1>
 <h3 align="center">CS '23 @ UW-Madison | Incoming Software Engineer @ Amazon</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thompsoto&label=Profile%20views&color=0e75b6&style=flat" alt="thompsoto" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
