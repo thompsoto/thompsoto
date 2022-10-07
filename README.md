@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src=images/cat.gif />
+  <img width="100" src=images/cat.gif />
 </p>
 <h1 align="center" width="200">Hello 👋, I'm Matthew Thompson Soto</h1>
 <h3 align="center">CS '23 @ UW-Madison | Incoming Software Engineer @ Amazon</h3>
