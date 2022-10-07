@@ -1,5 +1,5 @@
 ![MasterHead](images/code.gif)
-<h1 align="center" width="400">Hello 👋, I'm Matthew Thompson Soto</h1>
+<h1 align="center" width="200">Hello 👋, I'm Matthew Thompson Soto</h1>
 <h3 align="center">CS '23 @ UW-Madison | Incoming Software Engineer @ Amazon</h3>
 <img align=“center” width=“400” src=images/cat.gif>
 
