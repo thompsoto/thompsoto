@@ -33,7 +33,7 @@
   </p>
 
 ## GitHub stats
-  <table align="center" border="0">
+  <table align="center" border="none">
     <tr>
  <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/></th>
   <th><img src="https://github-readme-stats.vercel.app/api?username=thompsoto&&show_icons=true&count_private=true&theme=github_dark"></th>
