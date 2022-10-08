@@ -4,8 +4,7 @@
 <h1 align="center">Hi, I'm Matthew Thompson Soto <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">Software developer. Dog, cat & plant enthusiast.</h3>
 
-## Programming Languages
-
+<h3 align="center">Programming languages</3>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
