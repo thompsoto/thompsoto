@@ -20,6 +20,9 @@
 <a  href="https://linkedin.com/in/thompsoto" target="_blank">
   <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
 </a>
+<a href="https://github.com/thompsoto">
+  <img src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ## GitHub stats
 <p align="center">
