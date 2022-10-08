@@ -27,7 +27,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mattthomp12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href=resume/thompsoto_resume>
+<a href="https://github.com/thompsoto/thompsoto/blob/main/resume/thompsoto_resume.pdf">
 <img src="https://img.shields.io/badge/-My%20Resume-lightgray?&style=for-the-badge"
      </a>
   </p>
