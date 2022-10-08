@@ -24,6 +24,9 @@
 <a  href="https://github.com/thompsoto" >
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mattthomp12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   </p>
 
 ## GitHub stats
