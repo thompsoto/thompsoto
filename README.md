@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-## Connect with me!
+## Connect with me
   <img href="https://linkedin.com/in/thompsoto" src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-  <img href="https://github.com/thompsoto" src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img href="https://github.com/thompsoto" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 ## GitHub stats
 <p align="center">
