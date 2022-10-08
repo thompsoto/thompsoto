@@ -17,12 +17,8 @@
 </p>
 
 ## Connect with me!
-<a  href="https://linkedin.com/in/thompsoto" target="_blank">
-  <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-</a>
-<a href="https://github.com/thompsoto">
-  <img src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <img href="https://linkedin.com/in/thompsoto" src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+  <img href="https://github.com/thompsoto" src"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 ## GitHub stats
 <p align="center">
