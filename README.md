@@ -17,8 +17,7 @@
 
 ## Test
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/> | <img src="https://github-readme-stats.vercel.app/api?username=thompsoto&&show_icons=true&count_private=true&theme=github_dark">
 </p>
 
 <!--
