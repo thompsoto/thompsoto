@@ -15,7 +15,12 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-## Test
+## Connect with me!
+<a  href="https://linkedin.com/in/thompsoto" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+
+## GitHub stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/> | <img src="https://github-readme-stats.vercel.app/api?username=thompsoto&&show_icons=true&count_private=true&theme=github_dark">
 </p>
