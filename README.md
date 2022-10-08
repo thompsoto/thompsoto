@@ -34,8 +34,12 @@
 
 ## GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/>
+  <table>
+    <tr>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsoto&layout=compact&theme=github_dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=thompsoto&&show_icons=true&count_private=true&theme=github_dark">
+    </tr>
+    </table>
 </p>
 
 <!--
