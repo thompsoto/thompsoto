@@ -2,7 +2,7 @@
   <img width="150" src=images/cat.gif />
 </p>
 <h1 align="center">Hi, I'm Matthew Thompson Soto <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">Software Developer and CS @ UW-Madison.</h3>
+<h3 align="center">Software Developer and CS @ UW-Madison</h3>
 
 ## Programming Languages
 <p align="center">
