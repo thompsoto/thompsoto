@@ -6,7 +6,7 @@
 
 🎓 I graduated from the **University of Wisconsin-Madison** (*Go Badgers* 🦡) with a B.S. in Computer Science
 
-🇵🇷 I was born and raised in Puerto Rico - la Isla del Encanto. Aquí también se habla español.
+🇵🇷 I was born and raised in Puerto Rico - la Isla del Encanto (*aquí también se habla español!*)
 
 🐈‍⬛ I love **cats**. Proud cat dad of Juniper and Sage. If I'm lucky, they'll join me on my coding sessions
 
