@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-🖥️ I am a full-time **Software Engineer** currently working at **Amazon**, based out of **Seattle, WA**
+🖥️ I am a full-time **Software Engineer** currently working at **Amazon**.
 
 🎓 I graduated from the **University of Wisconsin-Madison** (*Go Badgers* 🦡) with a B.S. in Computer Science
 
